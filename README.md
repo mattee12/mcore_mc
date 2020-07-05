@@ -6,5 +6,5 @@ This plugin is being developed for my own private server.
 
 - #### Login mechanism
 - #### Greeting players
-- #### A clock (24 hour format, but 12 is going to be supported too)
+- #### A redstone lamp based clock (24 hour format, but 12 is going to be supported too)
 - #### Managing multiple worlds (creating, importing, teleporting between worlds)
