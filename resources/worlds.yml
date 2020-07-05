@@ -1,0 +1,24 @@
+#This file contains all worlds that should be used
+#on this server.
+#To add a world, simply append it at the end of the list.
+worlds:
+  - world:
+      auto-load: true
+      type: normal
+      generator: normal
+  - world_nether:
+      auto-load: true
+      type: nether
+      generator: normal
+  - world_the_end:
+      auto-load: true
+      generator: normal
+      type: end
+  - lobby:
+      auto-load: true
+      type: normal
+      generator: empty
+  - skypvp:
+      auto-load: true
+      type: normal
+      generator: empty
